@@ -8,6 +8,8 @@
 - [InterPlanetary Mind Map](https://github.com/vewpoint/meeting-point/issues/5), a global domain mind-map for organizing your mind.
 - [TopicQuests](https://github.com/vewpoint/meeting-point/issues/8), co-creating global federated knowledge gardens.
 - [_Prtcl](https://github.com/vewpoint/meeting-point/issues/12), like Git, but for ideas.
+- [Hypothesis](https://github.com/vewpoint/meeting-point/issues/14), annotate the web, with anyone, anywhere.
+    - [Annotating All Knowledge](https://github.com/vewpoint/meeting-point/issues/15), coalition to create an annotation layer over digital content.
 
 ## People
 - [Daniel Armengol Altayó](https://github.com/vewpoint/meeting-point/issues/4), working on upgrading our digital experience.
