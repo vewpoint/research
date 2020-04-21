@@ -10,6 +10,7 @@
 - [_Prtcl](https://github.com/vewpoint/meeting-point/issues/12), like Git, but for ideas.
 - [Hypothesis](https://github.com/vewpoint/meeting-point/issues/14), annotate the web, with anyone, anywhere.
     - [Annotating All Knowledge](https://github.com/vewpoint/meeting-point/issues/15), coalition to create an annotation layer over digital content.
+- [Contextualise](https://github.com/vewpoint/meeting-point/issues/16), manage your knowledge.
 
 ## People
 - [Daniel Armengol Altayó](https://github.com/vewpoint/meeting-point/issues/4), working on upgrading our digital experience.
@@ -18,3 +19,4 @@
 - [Jack Park](https://github.com/vewpoint/meeting-point/issues/7), World of Warcraft meets global sensemaking.
 - [Bernard Chabot](https://github.com/vewpoint/meeting-point/issues/9), knowledge engineering and product lifecycle management.
 - [Guillem Córdoba](https://github.com/vewpoint/meeting-point/issues/13), decentralized web developer.
+- [Brett Kromkamp](https://github.com/vewpoint/meeting-point/issues/17), a semantic technologies enthusiast.
