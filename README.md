@@ -11,6 +11,7 @@
 - [Hypothesis](https://github.com/vewpoint/meeting-point/issues/14), annotate the web, with anyone, anywhere.
     - [Annotating All Knowledge](https://github.com/vewpoint/meeting-point/issues/15), coalition to create an annotation layer over digital content.
 - [Contextualise](https://github.com/vewpoint/meeting-point/issues/16), manage your knowledge.
+- [Perpectives](https://github.com/vewpoint/meeting-point/issues/18), a simple non-technical Modelling Language.
 
 ## People
 - [Daniel Armengol Altayó](https://github.com/vewpoint/meeting-point/issues/4), working on upgrading our digital experience.
