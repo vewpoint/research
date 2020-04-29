@@ -12,6 +12,9 @@
     - [Annotating All Knowledge](https://github.com/vewpoint/meeting-point/issues/15), coalition to create an annotation layer over digital content.
 - [Contextualise](https://github.com/vewpoint/meeting-point/issues/16), manage your knowledge.
 - [Perpectives](https://github.com/vewpoint/meeting-point/issues/18), a simple non-technical Modelling Language.
+- [DebateGraph](https://github.com/vewpoint/meeting-point/issues/19), the global debate map.
+    - [Civilization Project](https://github.com/vewpoint/meeting-point/issues/20), a cluster of Debategraph maps to tackle humanity's main challenges.
+- [COVID-19 Control Wars](https://github.com/vewpoint/meeting-point/issues/21), collaborative worlding and the invocation of futures-to-come.
 
 ## People
 - [Daniel Armengol Altayó](https://github.com/vewpoint/meeting-point/issues/4), working on upgrading our digital experience.
