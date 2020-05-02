@@ -15,6 +15,9 @@
 - [DebateGraph](https://github.com/vewpoint/meeting-point/issues/19), the global debate map.
     - [Civilization Project](https://github.com/vewpoint/meeting-point/issues/20), a cluster of Debategraph maps to tackle humanity's main challenges.
 - [COVID-19 Control Wars](https://github.com/vewpoint/meeting-point/issues/21), collaborative worlding and the invocation of futures-to-come.
+- [Protocol Labs](https://github.com/vewpoint/meeting-point/issues/22), a research, development, and deployment institution for improving Internet technology.
+    - [IPFS](https://github.com/vewpoint/meeting-point/issues/23), a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [World Brain](https://github.com/vewpoint/meeting-point/issues/24), collective web intelligence.
 
 ## People
 - [Daniel Armengol Altayó](https://github.com/vewpoint/meeting-point/issues/4), working on upgrading our digital experience.
@@ -24,3 +27,4 @@
 - [Bernard Chabot](https://github.com/vewpoint/meeting-point/issues/9), knowledge engineering and product lifecycle management.
 - [Guillem Córdoba](https://github.com/vewpoint/meeting-point/issues/13), decentralized web developer.
 - [Brett Kromkamp](https://github.com/vewpoint/meeting-point/issues/17), a semantic technologies enthusiast.
+- [Oliver Sauter](https://github.com/vewpoint/meeting-point/issues/25), co-founder of World Brain.
