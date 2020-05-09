@@ -24,6 +24,8 @@
 - [COVID-19 Control Wars](https://github.com/vewpoint/meeting-point/issues/21), collaborative worlding and the invocation of futures-to-come.
 - [Protocol Labs](https://github.com/vewpoint/meeting-point/issues/22), a research, development, and deployment institution for improving Internet technology.
     - [IPFS](https://github.com/vewpoint/meeting-point/issues/23), a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [Bloom](https://github.com/vewpoint/meeting-point/issues/30), an open source and encrypted productivity app.
+- [TiddlyWiki](https://github.com/vewpoint/meeting-point/issues/31), a non-linear personal web notebook.
 
 ## People
 - [Daniel Armengol Altayó](https://github.com/vewpoint/meeting-point/issues/4), working on upgrading our digital experience.
@@ -35,3 +37,5 @@
 - [Brett Kromkamp](https://github.com/vewpoint/meeting-point/issues/17), a semantic technologies enthusiast.
 - [Oliver Sauter](https://github.com/vewpoint/meeting-point/issues/25), co-founder of World Brain.
 - [Gyuri Lajos](https://github.com/vewpoint/meeting-point/issues/28), knowledge (graph) architect.
+- [Sylvain Kerkour](https://github.com/vewpoint/meeting-point/issues/29), developer and creator of Bloom.
+- [Jeremy Ruston](https://github.com/vewpoint/meeting-point/issues/32), developer and creator of TiddlyWiki.
